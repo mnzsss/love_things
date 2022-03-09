@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "870243827199",
+    "project_id": "lovethings-9db56",
+    "storage_bucket": "lovethings-9db56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870243827199:android:f23b8fb7b410b6aaf97bca",
+        "android_client_info": {
+          "package_name": "com.example.love_things"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870243827199-85o29l5487so81glj58o1gvhdm7q5sed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.love_things",
+            "certificate_hash": "65c7cfdd87e1b9b852edf6bacb80e014b95657a7"
+          }
+        },
+        {
+          "client_id": "870243827199-sj8044jtqp7e84e8dbfhjpo2l6qa9u13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFZh7drdcyPz1qpyVQiMXodMRtn0ltF2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870243827199-sj8044jtqp7e84e8dbfhjpo2l6qa9u13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
